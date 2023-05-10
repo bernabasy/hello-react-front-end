@@ -122,7 +122,7 @@ To to build for the production, execute the following command:
 
 ### Back_end
 
- [here is link to back_end](https://github.com/bernabasy/hello-rails-back-end/tree/hello_rails_back-end)
+ [Here is link to back_end pull request](https://github.com/bernabasy/hello-rails-back-end1/pull/1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
