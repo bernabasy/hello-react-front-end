@@ -120,9 +120,9 @@ To to build for the production, execute the following command:
   npm run build
 ```
 
-### Deployment
+### Back_end
 
-You can deploy this project using [Github Pages]()
+ [here is link to back_end](https://github.com/bernabasy/hello-rails-back-end/tree/hello_rails_back-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
